@@ -439,7 +439,7 @@ public interface Messages extends com.google.gwt.i18n.client.Messages {
     String history();
 
     
-    @DefaultMessage("Home")
+    @DefaultMessage("首页")
     @Key("home")
     String home();
 
